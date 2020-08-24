@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/TheStore/.vs/TheStore/v16
+/TheStore/TheStore/bin/Debug/netcoreapp3.1
+/TheStore/TheStore/obj
